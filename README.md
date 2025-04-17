@@ -1,0 +1,2 @@
+# Minesweeper
+Browser minesweeper game
